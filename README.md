@@ -11,7 +11,7 @@
 
 # Zoo Code
 
-> Your AI-Powered Dev Team, Right in Your Editor
+> Your AI-Powered Dev Team, Right in Your Editor, powered by P.
 
 ## We are Zoo Code
 
